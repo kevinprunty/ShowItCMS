@@ -1,0 +1,22 @@
+{
+  "name": "showitcms",
+  "version": "1.0.0",
+  "description": "A simple yet elegant CMS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinprunty/ShowItCMS.git"
+  },
+  "author": "Kevin Prunty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinprunty/ShowItCMS/issues"
+  },
+  "homepage": "https://github.com/kevinprunty/ShowItCMS#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
